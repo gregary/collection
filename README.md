@@ -12,3 +12,4 @@ collection of  webpages
 + [Open Access to E-prints: Arxive ](http://arxiv.org/)
 + [Amazing Editor: Sublime Text](http://www.sublimetext.com/3)
 + [Anaconda: High Performance Distribution of Python and R](https://www.continuum.io/)
++ [Samba](https://www.samba.org/)integrate Linux/Unix Servers and Desktops into Active Directory environments
