@@ -12,4 +12,6 @@ collection of  webpages
 + [Open Access to E-prints: Arxive ](http://arxiv.org/)
 + [Amazing Editor: Sublime Text](http://www.sublimetext.com/3)
 + [Anaconda: High Performance Distribution of Python and R](https://www.continuum.io/)
-+ [Samba](https://www.samba.org/)integrate Linux/Unix Servers and Desktops into Active Directory environments
++ [Samba ](https://www.samba.org/)integrate Linux/Unix Servers and Desktops into Active Directory environments
++ [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
++ [Amazon Cloud EC2 g2 Spot Instance](https://aws.amazon.com/cn/ec2/spot/pricing/)
